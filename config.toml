@@ -1,5 +1,5 @@
 site_title = "Vpromise's Arxiv"
-limit_days = 7
+limit_days = 30
 cache_url = "https://veekly.github.io/arxiv/cache.json"
 
 [[sources]]
